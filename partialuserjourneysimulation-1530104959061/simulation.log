@@ -1,0 +1,183 @@
+RUN	com.itv.atsdcf.perf.PartialUserJourneySimulation		partialuserjourneysimulation	1530104959061	 	2.0
+USER	PartialUserJourneySimulation	1	START	1530104959717	1530104959717
+USER	PartialUserJourneySimulation	2	START	1530104959726	1530104959726
+USER	PartialUserJourneySimulation	3	START	1530104959726	1530104959726
+USER	PartialUserJourneySimulation	4	START	1530104959726	1530104959726
+USER	PartialUserJourneySimulation	5	START	1530104959726	1530104959726
+USER	PartialUserJourneySimulation	6	START	1530104959726	1530104959726
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530104963732	1530104963836	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530104964731	1530104964762	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530104965731	1530104965787	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530104966732	1530104966759	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530104967731	1530104967768	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530104968732	1530104968779	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530104969730	1530104969762	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530104970731	1530104970756	OK	 
+REQUEST	PartialUserJourneySimulation	3		get sales groups	1530104971731	1530104971755	OK	 
+REQUEST	PartialUserJourneySimulation	4		get sales groups	1530104972731	1530104972760	OK	 
+REQUEST	PartialUserJourneySimulation	5		get sales groups	1530104973729	1530104973750	OK	 
+REQUEST	PartialUserJourneySimulation	6		get sales groups	1530104974731	1530104974753	OK	 
+REQUEST	PartialUserJourneySimulation	1		get campaign list	1530104975729	1530104976233	OK	 
+REQUEST	PartialUserJourneySimulation	2		get campaign list	1530104976731	1530104977260	OK	 
+REQUEST	PartialUserJourneySimulation	3		get campaign list	1530104977732	1530104978178	OK	 
+REQUEST	PartialUserJourneySimulation	4		get campaign list	1530104978731	1530104979346	OK	 
+REQUEST	PartialUserJourneySimulation	5		get campaign list	1530104979730	1530104980336	OK	 
+REQUEST	PartialUserJourneySimulation	6		get campaign list	1530104980730	1530104981556	OK	 
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530104981729	1530104981744	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530104982730	1530104982741	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530104983730	1530104983740	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530104984731	1530104984748	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530104985732	1530104985743	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530104986730	1530104986766	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530104987732	1530104987787	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530104988731	1530104988751	OK	 
+REQUEST	PartialUserJourneySimulation	3		get sales groups	1530104989732	1530104989756	OK	 
+REQUEST	PartialUserJourneySimulation	4		get sales groups	1530104990729	1530104990749	OK	 
+REQUEST	PartialUserJourneySimulation	5		get sales groups	1530104991729	1530104991752	OK	 
+REQUEST	PartialUserJourneySimulation	6		get sales groups	1530104992730	1530104992752	OK	 
+REQUEST	PartialUserJourneySimulation	1		get campaign list	1530104993730	1530104994254	OK	 
+REQUEST	PartialUserJourneySimulation	2		get campaign list	1530104994731	1530104995275	OK	 
+REQUEST	PartialUserJourneySimulation	3		get campaign list	1530104995731	1530104996207	OK	 
+REQUEST	PartialUserJourneySimulation	4		get campaign list	1530104996731	1530104997230	OK	 
+REQUEST	PartialUserJourneySimulation	5		get campaign list	1530104997729	1530104998248	OK	 
+REQUEST	PartialUserJourneySimulation	6		get campaign list	1530104998729	1530104999214	OK	 
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530104999731	1530104999741	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530105000732	1530105000748	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530105001730	1530105001751	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530105002729	1530105002739	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530105003730	1530105003748	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530105004729	1530105004745	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530105005730	1530105005750	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530105006731	1530105006757	OK	 
+REQUEST	PartialUserJourneySimulation	3		get sales groups	1530105007731	1530105007752	OK	 
+REQUEST	PartialUserJourneySimulation	4		get sales groups	1530105008729	1530105008816	OK	 
+REQUEST	PartialUserJourneySimulation	5		get sales groups	1530105009731	1530105009753	OK	 
+REQUEST	PartialUserJourneySimulation	6		get sales groups	1530105010731	1530105010752	OK	 
+REQUEST	PartialUserJourneySimulation	1		get campaign list	1530105011731	1530105012177	OK	 
+REQUEST	PartialUserJourneySimulation	2		get campaign list	1530105012729	1530105013200	OK	 
+REQUEST	PartialUserJourneySimulation	3		get campaign list	1530105013730	1530105014220	OK	 
+REQUEST	PartialUserJourneySimulation	4		get campaign list	1530105014731	1530105015258	OK	 
+REQUEST	PartialUserJourneySimulation	5		get campaign list	1530105015731	1530105016380	OK	 
+REQUEST	PartialUserJourneySimulation	6		get campaign list	1530105016731	1530105017293	OK	 
+REQUEST	PartialUserJourneySimulation	1		get programmes	1530105017732	1530105017744	OK	 
+REQUEST	PartialUserJourneySimulation	2		get programmes	1530105018731	1530105018748	OK	 
+REQUEST	PartialUserJourneySimulation	3		get programmes	1530105019730	1530105019762	OK	 
+REQUEST	PartialUserJourneySimulation	4		get programmes	1530105020731	1530105020741	OK	 
+REQUEST	PartialUserJourneySimulation	5		get programmes	1530105021731	1530105021742	OK	 
+REQUEST	PartialUserJourneySimulation	6		get programmes	1530105022730	1530105022743	OK	 
+REQUEST	PartialUserJourneySimulation	1		get break list 20180207	1530105023731	1530105024043	OK	 
+REQUEST	PartialUserJourneySimulation	2		get break list 20180207	1530105024731	1530105025172	OK	 
+REQUEST	PartialUserJourneySimulation	3		get break list 20180207	1530105025731	1530105026195	OK	 
+REQUEST	PartialUserJourneySimulation	4		get break list 20180207	1530105026728	1530105027116	OK	 
+REQUEST	PartialUserJourneySimulation	5		get break list 20180209	1530105027731	1530105028131	OK	 
+REQUEST	PartialUserJourneySimulation	6		get break list 20180209	1530105028730	1530105029069	OK	 
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530105029730	1530105029744	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530105030730	1530105030753	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530105031729	1530105031740	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530105032730	1530105032737	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530105033730	1530105033740	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530105034732	1530105034749	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530105035731	1530105035756	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530105036730	1530105036753	OK	 
+REQUEST	PartialUserJourneySimulation	3		get sales groups	1530105037729	1530105037783	OK	 
+REQUEST	PartialUserJourneySimulation	4		get sales groups	1530105038731	1530105038749	OK	 
+REQUEST	PartialUserJourneySimulation	5		get sales groups	1530105039730	1530105039751	OK	 
+REQUEST	PartialUserJourneySimulation	6		get sales groups	1530105040732	1530105040752	OK	 
+REQUEST	PartialUserJourneySimulation	1		get campaign list	1530105041731	1530105042174	OK	 
+REQUEST	PartialUserJourneySimulation	2		get campaign list	1530105042731	1530105043180	OK	 
+REQUEST	PartialUserJourneySimulation	3		get campaign list	1530105043730	1530105044234	OK	 
+REQUEST	PartialUserJourneySimulation	4		get campaign list	1530105044731	1530105045259	OK	 
+REQUEST	PartialUserJourneySimulation	5		get campaign list	1530105045731	1530105046273	OK	 
+REQUEST	PartialUserJourneySimulation	6		get campaign list	1530105046731	1530105047294	OK	 
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530105047731	1530105047743	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530105048730	1530105048775	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530105049732	1530105049741	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530105050731	1530105050741	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530105051732	1530105051742	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530105052732	1530105052749	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530105053730	1530105053749	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530105054729	1530105054750	OK	 
+REQUEST	PartialUserJourneySimulation	3		get sales groups	1530105055731	1530105055749	OK	 
+REQUEST	PartialUserJourneySimulation	4		get sales groups	1530105056731	1530105056748	OK	 
+REQUEST	PartialUserJourneySimulation	5		get sales groups	1530105057731	1530105057753	OK	 
+REQUEST	PartialUserJourneySimulation	6		get sales groups	1530105058730	1530105058752	OK	 
+REQUEST	PartialUserJourneySimulation	1		get campaign list	1530105059731	1530105060402	OK	 
+REQUEST	PartialUserJourneySimulation	2		get campaign list	1530105060731	1530105061326	OK	 
+REQUEST	PartialUserJourneySimulation	3		get campaign list	1530105061731	1530105062178	OK	 
+REQUEST	PartialUserJourneySimulation	4		get campaign list	1530105062729	1530105063178	OK	 
+REQUEST	PartialUserJourneySimulation	5		get campaign list	1530105063729	1530105064398	OK	 
+REQUEST	PartialUserJourneySimulation	6		get campaign list	1530105064731	1530105065319	OK	 
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530105065731	1530105065741	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530105066730	1530105066743	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530105067731	1530105067740	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530105068731	1530105068740	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530105069730	1530105069740	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530105070731	1530105070744	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530105071731	1530105071755	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530105072731	1530105072752	OK	 
+REQUEST	PartialUserJourneySimulation	3		get sales groups	1530105073730	1530105073747	OK	 
+REQUEST	PartialUserJourneySimulation	4		get sales groups	1530105074729	1530105074747	OK	 
+REQUEST	PartialUserJourneySimulation	5		get sales groups	1530105075729	1530105075749	OK	 
+REQUEST	PartialUserJourneySimulation	6		get sales groups	1530105076730	1530105076753	OK	 
+REQUEST	PartialUserJourneySimulation	1		get campaign list	1530105077730	1530105078322	OK	 
+REQUEST	PartialUserJourneySimulation	2		get campaign list	1530105078729	1530105079243	OK	 
+REQUEST	PartialUserJourneySimulation	3		get campaign list	1530105079730	1530105080289	OK	 
+REQUEST	PartialUserJourneySimulation	4		get campaign list	1530105080729	1530105081199	OK	 
+REQUEST	PartialUserJourneySimulation	5		get campaign list	1530105081730	1530105082318	OK	 
+REQUEST	PartialUserJourneySimulation	6		get campaign list	1530105082729	1530105083441	OK	 
+REQUEST	PartialUserJourneySimulation	1		get programmes	1530105083729	1530105083742	OK	 
+REQUEST	PartialUserJourneySimulation	2		get programmes	1530105084729	1530105084747	OK	 
+REQUEST	PartialUserJourneySimulation	3		get programmes	1530105085729	1530105085742	OK	 
+REQUEST	PartialUserJourneySimulation	4		get programmes	1530105086730	1530105086740	OK	 
+REQUEST	PartialUserJourneySimulation	5		get programmes	1530105087729	1530105087739	OK	 
+REQUEST	PartialUserJourneySimulation	6		get programmes	1530105088731	1530105088746	OK	 
+REQUEST	PartialUserJourneySimulation	1		get break list 20180207	1530105089730	1530105090195	OK	 
+REQUEST	PartialUserJourneySimulation	2		get break list 20180207	1530105090729	1530105091023	OK	 
+REQUEST	PartialUserJourneySimulation	3		get break list 20180207	1530105091729	1530105092149	OK	 
+REQUEST	PartialUserJourneySimulation	4		get break list 20180207	1530105092731	1530105093165	OK	 
+REQUEST	PartialUserJourneySimulation	5		get break list 20180209	1530105093731	1530105094192	OK	 
+REQUEST	PartialUserJourneySimulation	6		get break list 20180209	1530105094731	1530105095119	OK	 
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530105095731	1530105095746	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530105096729	1530105096741	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530105097729	1530105097748	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530105098730	1530105098754	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530105099730	1530105099742	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530105100730	1530105100742	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530105101731	1530105101755	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530105102730	1530105102751	OK	 
+REQUEST	PartialUserJourneySimulation	3		get sales groups	1530105103731	1530105103753	OK	 
+REQUEST	PartialUserJourneySimulation	4		get sales groups	1530105104731	1530105104751	OK	 
+REQUEST	PartialUserJourneySimulation	5		get sales groups	1530105105731	1530105105750	OK	 
+REQUEST	PartialUserJourneySimulation	6		get sales groups	1530105106731	1530105106751	OK	 
+REQUEST	PartialUserJourneySimulation	1		get campaign list	1530105107731	1530105108227	OK	 
+REQUEST	PartialUserJourneySimulation	2		get campaign list	1530105108731	1530105109252	OK	 
+REQUEST	PartialUserJourneySimulation	3		get campaign list	1530105109731	1530105110283	OK	 
+REQUEST	PartialUserJourneySimulation	4		get campaign list	1530105110731	1530105111298	OK	 
+REQUEST	PartialUserJourneySimulation	5		get campaign list	1530105111731	1530105112246	OK	 
+REQUEST	PartialUserJourneySimulation	6		get campaign list	1530105112731	1530105113230	OK	 
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530105113731	1530105113741	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530105114731	1530105114743	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530105115729	1530105115737	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530105116730	1530105116740	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530105117729	1530105117741	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530105118730	1530105118740	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530105119729	1530105119782	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530105120730	1530105120750	OK	 
+REQUEST	PartialUserJourneySimulation	3		get sales groups	1530105121729	1530105121752	OK	 
+REQUEST	PartialUserJourneySimulation	4		get sales groups	1530105122730	1530105122749	OK	 
+REQUEST	PartialUserJourneySimulation	5		get sales groups	1530105123731	1530105123751	OK	 
+REQUEST	PartialUserJourneySimulation	6		get sales groups	1530105124729	1530105124750	OK	 
+REQUEST	PartialUserJourneySimulation	1		get campaign list	1530105125729	1530105126246	OK	 
+REQUEST	PartialUserJourneySimulation	2		get campaign list	1530105126729	1530105127269	OK	 
+REQUEST	PartialUserJourneySimulation	3		get campaign list	1530105127728	1530105128295	OK	 
+REQUEST	PartialUserJourneySimulation	4		get campaign list	1530105128730	1530105129247	OK	 
+REQUEST	PartialUserJourneySimulation	5		get campaign list	1530105129730	1530105130230	OK	 
+REQUEST	PartialUserJourneySimulation	6		get campaign list	1530105130730	1530105131268	OK	 
+REQUEST	PartialUserJourneySimulation	1		get demographics	1530105131730	1530105131748	OK	 
+REQUEST	PartialUserJourneySimulation	2		get demographics	1530105132730	1530105132742	OK	 
+REQUEST	PartialUserJourneySimulation	3		get demographics	1530105133730	1530105133740	OK	 
+REQUEST	PartialUserJourneySimulation	4		get demographics	1530105134730	1530105134741	OK	 
+REQUEST	PartialUserJourneySimulation	5		get demographics	1530105135729	1530105135748	OK	 
+REQUEST	PartialUserJourneySimulation	6		get demographics	1530105136729	1530105136741	OK	 
+REQUEST	PartialUserJourneySimulation	1		get sales groups	1530105137729	1530105137749	OK	 
+REQUEST	PartialUserJourneySimulation	2		get sales groups	1530105138728	1530105138788	OK	 

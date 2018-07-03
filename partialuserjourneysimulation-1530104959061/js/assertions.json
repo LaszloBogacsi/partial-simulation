@@ -1,0 +1,10 @@
+{
+  "simulation": "com.itv.atsdcf.perf.PartialUserJourneySimulation",
+  "simulationId": "partialuserjourneysimulation",
+  "start": 1530104959061,
+  "description": "",
+  "scenarios": ["PartialUserJourneySimulation"],
+  "assertions": [
+
+  ]
+}
